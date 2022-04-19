@@ -1,2 +1,2 @@
 # Let's Foooking Go!
-> just try
+`just try`
