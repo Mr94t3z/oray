@@ -20,7 +20,7 @@ print("\nHasil ke-7:", np.random.randn(4))
 
 # print("\n", sns.displot(np.random.randn(10000), kde=True))
 
-# seaborn 2
+# seaborn 1
 print("\nHasil ke-8:")
 sns.set_theme()
 np.random.seed(0)
