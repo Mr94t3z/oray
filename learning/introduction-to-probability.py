@@ -122,8 +122,6 @@ print('Hasil soal 3 =', all_same(10000))
     companyA = {50 employees, 2 company cars, 10 vans, \
         30 desks, 25 computers}
     companyB = {50 employees, 30 desks, 2 offices, 1 pantry}
-    
-    
 """
 
 """_rumus_
