@@ -1,5 +1,5 @@
 # A Simple Website Using Flask
-![Python_App](https://img.shields.io/badge/Flask%20App-Python-blue)
+![Python_App](https://img.shields.io/badge/Running-Flask%20App%20Using%20Python-blue)
 
 - [ ] Run this `command` to start.
 - [ ] Then, open [http://127.0.0.1:5000/](http://127.0.0.1:5000/) to view it in your browser.
@@ -11,12 +11,21 @@ python3 main.py
 # Output
 ![Python_App](https://img.shields.io/badge/Flask%20App-Python-blue)
 
+![Python_App](https://img.shields.io/badge/The%20UI-Flask%20App%20Using%20Python-blue)
+### 1. The UI
 <p align="center">
-  <h3>1. The UI</h3>
   <img src="/TheApp/hasil/input.png" alt="animated" />
-  <h3>2. The Process</h3>
+</p>
+
+![Python_App](https://img.shields.io/badge/The%20Process-Flask%20App%20Using%20Python-blue)
+### 2. The Process
+<p align="center">
   <img src="/TheApp/hasil/input-berhasil.png" alt="animated" />
-  <h3>3. The Output</h3>
+</p>
+
+![Python_App](https://img.shields.io/badge/The%20Output-Flask%20App%20Using%20Python-blue)
+### 3. The Output
+<p align="center">
   <img src="/TheApp/hasil/output.png" alt="animated" />
 </p>
 
