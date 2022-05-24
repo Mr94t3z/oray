@@ -11,20 +11,20 @@ python3 main.py
 # Output
 ![Python_App](https://img.shields.io/badge/Flask%20App-Python-blue)
 
+## 1. The UI
 ![Python_App](https://img.shields.io/badge/The%20UI-Flask%20App%20Using%20Python-blue)
-### 1. The UI
 <p align="center">
   <img src="/TheApp/hasil/input.png" alt="animated" />
 </p>
 
+## 2. The Process
 ![Python_App](https://img.shields.io/badge/The%20Process-Flask%20App%20Using%20Python-blue)
-### 2. The Process
 <p align="center">
   <img src="/TheApp/hasil/input-berhasil.png" alt="animated" />
 </p>
 
+## 3. The Output
 ![Python_App](https://img.shields.io/badge/The%20Output-Flask%20App%20Using%20Python-blue)
-### 3. The Output
 <p align="center">
   <img src="/TheApp/hasil/output.png" alt="animated" />
 </p>
